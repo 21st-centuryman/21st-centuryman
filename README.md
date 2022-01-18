@@ -1,4 +1,4 @@
-### Hi there, I'm Alex [website] 👋 
+### Hi there, I'm Alex [<img align="left" alt="calexanderberg.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 👋 
 
 [![Website](https://img.shields.io/website?label=calexanderberg.com&style=for-the-badge&url=https%3A%2F%2Fcalexanderberg.com)](https://calexanderberg.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/calexanderberg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcalexanderberg&screen_name=calexanderberg)
