@@ -36,13 +36,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="calexanderberg's GitHub Stats" src="https://github-readme-stats.calexanderberg.vercel.app/api?username=calexanderberg&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://calexanderberg.com
 [kthbci]: https://kthbci.com
 [twitter]: https://twitter.com/calexanderberg
