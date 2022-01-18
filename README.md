@@ -5,7 +5,7 @@
 
 ## I'm a Swede, Student, Wannabe-Developer, and Student!!
 
-- 🔭 I just launched my student organization for blockchain [kthbci]!
+- 🔭 I just launched my student organization for blockchain, [kthbci]!
 - 🌱 I’m currently learning blockchain consensus methods
 - 👯 I’m looking to collaborations within blockchain
 - 🥅 2022 Goals: Contribute more to Open Source projects
