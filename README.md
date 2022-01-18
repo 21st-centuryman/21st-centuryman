@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning blockchain consensus methods
 - 👯 I’m looking to collaborations within blockchain
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play sax, golf, and tennis
+- ⚡ Fun fact: I play sax, golf, and tennis
 
 ### Connect with me:
 
