@@ -8,7 +8,7 @@
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
 - 🌱 I’m currently learning blockchain consensus methods
 - 👯 I’m looking to collaborations within blockchain
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Create a selfhosting server using virtualization and docker.
 - ⚡ Fun fact: I play sax, golf, and tennis
 
 ### Connect with me:
