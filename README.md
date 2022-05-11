@@ -3,11 +3,10 @@
 [![Website](https://img.shields.io/website?label=calexanderberg.com&style=for-the-badge&url=https%3A%2F%2Fcalexanderberg.com)](https://calexanderberg.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/calexanderberg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcalexanderberg&screen_name=calexanderberg)
 
-## I'm a Swede, Wannabe-Developer, and Student!
+## I'm a Swede, US resident, and Student!
 
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
-- 🌱 I’m currently learning blockchain consensus methods
-- 👯 I’m looking to collaborations within blockchain
+- 🌱 I’m currently learning home labbing and backend development
 - 🥅 2022 Goals: Create a selfhosting server using virtualization and docker.
 - ⚡ Fun fact: I play sax, golf, and tennis
 
