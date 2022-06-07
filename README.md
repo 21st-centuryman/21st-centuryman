@@ -7,34 +7,30 @@
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
 - 🌱 I’m currently learning home labbing and backend development
 - 🥅 2022 Goals: Create a selfhosting server using virtualization and docker.
-- ⚡ Fun fact: I play sax, golf, and tennis
+- ⚡ Fun fact: I play sax, golf, and tennis 
+- 👨‍💻 All of my projects are available at my [website]!
 
-### Connect with me:
-
-[<img align="left" alt="calexanderberg.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="calexanderberg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="calexanderberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="calexanderberg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][spafe]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][scripts]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][database]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />][elixir]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][portfolio]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][spafe]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][database]
+<br/>
+
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][portfolio]
+[<img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  />][spafe]
+[<img align="left" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />][spafe]
+[<img align="left" alt="Bash" width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][scripts]
+[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][database]
+[<img align="left" alt="Elixir" width="40px" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />][elixir]
+[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][portfolio]
+[<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][spafe]
+[<img align="left" alt="Postgres" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][database]
 
 <br />
 <br />
 
 ---
 
-[website]: https://calexanderberg.com
+[website]: "https://calexanderberg.com"
 [kthbci]: https://kthbci.com
 [twitter]: https://twitter.com/calexanderberg
 [instagram]: https://instagram.com/calexanderberg
