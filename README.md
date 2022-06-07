@@ -1,9 +1,8 @@
 ### Hi there, I'm Alex 👋 
 
 [![Website](https://img.shields.io/website?label=calexanderberg.com&style=for-the-badge&url=https%3A%2F%2Fcalexanderberg.com)](https://calexanderberg.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/calexanderberg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcalexanderberg&screen_name=calexanderberg)
 
-## I'm a Swede (and US-resident), linux enthusiast, and Aspiring programmer!
+## I'm a Swede (and US-resident), linux enthusiast, and aspiring programmer!
 
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
 - 🌱 I’m currently learning home labbing and backend development
@@ -21,14 +20,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][websitework]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][websitework]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][websitework]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][websitework]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][websitework]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][websitework]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][websitework]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][websitework]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][scripts]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][database]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />][elixir]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][portfolio]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][database]
 
 <br />
 <br />
@@ -41,3 +39,8 @@
 [instagram]: https://instagram.com/calexanderberg
 [linkedin]: https://linkedin.com/in/calexanderberg
 [websitework]: https://www.calexanderberg.com/work
+[scripts]: https://github.com/calexanderberg/scripts
+[portfolio]: https://github.com/calexanderberg/portfolio
+[elixir]: https://github.com/calexanderberg/ID1019
+[database]: https://github.com/calexanderberg/IV1351
+[git]: https://github.com/calexanderberg/II1302
