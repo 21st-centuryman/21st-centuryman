@@ -18,7 +18,7 @@
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][portfolio]
 [<img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  />][spafe]
 [<img align="left" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />][spafe]
-[<img align="left" alt="Bash" width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][scripts]
+[<img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />][scripts]
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][database]
 [<img align="left" alt="Elixir" width="40px" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />][elixir]
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][portfolio]
