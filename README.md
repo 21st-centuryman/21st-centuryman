@@ -25,10 +25,6 @@
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][spafe]
 [<img align="left" alt="Postgres" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][database]
 
-<br />
-<br />
-
----
 
 [website]: "https://calexanderberg.com"
 [kthbci]: https://kthbci.com
