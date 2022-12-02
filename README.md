@@ -7,7 +7,6 @@
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
 - 🌱 I’m currently learning home labbing and backend development
 - 🥅 2022 Goals: Create a selfhosting server using virtualization and docker.
-- ⚡ Fun fact: I play sax, golf, and tennis 
 - 👨‍💻 All of my projects are available at my [website]!
 
 
