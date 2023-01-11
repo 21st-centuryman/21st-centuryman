@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=calexanderberg.com&style=for-the-badge&url=https%3A%2F%2Fcalexanderberg.com)](https://calexanderberg.com)
 
-## I'm a Swede, linux enthusiast, and programmer!
+## I'm a Swede, tech enthusiast, and programmer!
 
 - 🔭 I just launched my student organization at KTH for blockchain, [kthbci]!
 - 🌱 I’m currently learning home labbing and backend development
