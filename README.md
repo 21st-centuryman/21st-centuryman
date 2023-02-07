@@ -34,6 +34,6 @@ If you want to follow me, I hope you enjoy this journey.
 - 👨‍💻 I live stream my learning on my twitch every sunday at 17 UTC.
 
 ## ⇁  Interests
-- Languages: Rust, Elixir
+- Languages: Rust, Elixir, ?Python?
 - Trendy stuff: AI/ML, Blockchain
 - Nerdy stuff: Linux, Homelabbing
