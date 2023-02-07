@@ -4,7 +4,7 @@
 #### Swede, programmer, life enjoyer.
 
 [![Website](https://img.shields.io/badge/Website-grey.svg?style=for-the-badge&logoColor=white&logo=googleearth)][Website]
-[![Dotfiles](https://img.shields.io/badge/.dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
+[![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust]
 [![Elixir](https://img.shields.io/badge/Elixir-purple.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
@@ -14,7 +14,7 @@
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Website]: https://www.calexanderberg.com/
-[Dotfiles]: https://github.com/21st-centuryman/.dotfiles
+[Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Rust]: https://github.com/21st-centuryman/Livermore-fetch
 [Elixir]: https://github.com/21st-centuryman/ID1019
