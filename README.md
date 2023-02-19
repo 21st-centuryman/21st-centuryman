@@ -3,7 +3,7 @@
 ## Alex
 #### Swede, programmer, and life enjoyer.
 
-[![Website](https://img.shields.io/badge/Website-grey.svg?style=for-the-badge&logoColor=white&logo=googleearth)][Website]
+[![Website](https://img.shields.io/badge/Website_(offline)-grey.svg?style=for-the-badge&logoColor=white&logo=googleearth)][Website]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust]
