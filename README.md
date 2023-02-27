@@ -7,9 +7,10 @@
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust]
-[![Elixir](https://img.shields.io/badge/Elixir-purple.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  <br />
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white&logo=python)][Python]
+[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logoColor=white&logo=linux)][linux]
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Website]: https://www.calexanderberg.com/
@@ -17,6 +18,7 @@
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Rust]: https://github.com/21st-centuryman/Livermore-fetch
 [Elixir]: https://github.com/21st-centuryman/ID1019
+[Arizona]: https://github.com/21st-centuryman/arizona
 [Python]: https://github.com/21st-centuryman/Livermore-analyze
 [Bash]: https://github.com/21st-centuryman/macoser
 [Typescript]: https://github.com/21st-centuryman/II1302
