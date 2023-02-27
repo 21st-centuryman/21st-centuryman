@@ -10,7 +10,7 @@
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  <br />
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white&logo=python)][Python]
-[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logoColor=white&logo=linux)][linux]
+[![Linux](https://img.shields.io/badge/Linux-white.svg?style=for-the-badge&logoColor=black&logo=linux)][Arizona]
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Website]: https://www.calexanderberg.com/
