@@ -10,7 +10,6 @@
 [![Elixir](https://img.shields.io/badge/Elixir-purple.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  <br />
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white&logo=python)][Python]
-[![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logoColor=white&logo=gnubash)][Bash]
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Website]: https://www.calexanderberg.com/
