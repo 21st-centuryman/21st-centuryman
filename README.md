@@ -32,7 +32,7 @@ If you want to follow me, I hope you enjoy this journey.
 - 🔭 I just landed my first IT job as a QA analyst for Nasdaq.
 - 🌱 I’m currently working on my ML and data scraping project, Livermore.
 - 🥅 2023 Goals: Go deep on AI and ML.
-- 👨‍💻 I live stream my learning on my twitch every sunday at 17 UTC.
+- 👨‍💻 I live stream my learning on my twitch every sunday at 17 or 18 UTC.
 
 ## ⇁  Interests
 - Languages: Rust, Elixir, ?Python?
