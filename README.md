@@ -10,7 +10,7 @@
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  <br />
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white&logo=python)][Python]
-[![Linux](https://img.shields.io/badge/Linux-ebb003.svg?style=for-the-badge&logoColor=white&logo=linux)][Arizona]
+[![Homebrew](https://img.shields.io/badge/Homebrew-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)][Homebrew]
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Website]: https://www.calexanderberg.com/
@@ -18,7 +18,7 @@
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Rust]: https://github.com/21st-centuryman/Livermore-fetch
 [Elixir]: https://github.com/21st-centuryman/ID1019
-[Arizona]: https://github.com/21st-centuryman/arizona
+[Homebrew]: https://github.com/21st-centuryman/brews
 [Python]: https://github.com/21st-centuryman/Livermore-analyze
 [Bash]: https://github.com/21st-centuryman/macoser
 [Typescript]: https://github.com/21st-centuryman/II1302
