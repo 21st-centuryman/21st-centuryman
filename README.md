@@ -30,7 +30,10 @@ If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
 - 🔭 I just landed my first IT job as a QA analyst for Nasdaq.
-- 🌱 I’m currently working on my ML and data scraping project, Livermore.
+- 🌱 I’m currently working on three projects.
+  - Homelabbing: reverse proxies, and other issues in projct
+  - Livermore: AI and data scraping with yahoo stock history
+  - Portfolio: Rewriting in Leptos/WASM
 - 🥅 2023 Goals: Go deep on AI and ML.
 - 👨‍💻 I live stream my learning on my twitch every sunday at 17 or 18 UTC.
 
