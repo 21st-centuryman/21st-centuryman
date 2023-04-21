@@ -5,9 +5,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_(offline)-654ff0.svg?style=for-the-badge&logoColor=white&logo=webassembly)][Portfolio]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
-[![Livermore](https://img.shields.io/badge/livermore-3776AB.svg?style=for-the-badge&logoColor=white&logo=Python)][Livermore] 
+[![Livermore](https://img.shields.io/badge/livermore-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Livermore] 
  
-[![Rust](https://img.shields.io/badge/Livermore--fetch-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  
