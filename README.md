@@ -7,12 +7,12 @@
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Livermore](https://img.shields.io/badge/livermore-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Livermore] 
  
+[![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  
 [![Docker](https://img.shields.io/badge/Steam_headless-2496ed.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker]
 [![Homebrew](https://img.shields.io/badge/Personal_tap-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)][Homebrew]
-[![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 [Portfolio]: https://www.calexanderberg.com/
 [Homelab]: https://github.com/21st-centuryman/Homelab
