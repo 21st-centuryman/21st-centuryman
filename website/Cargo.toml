@@ -28,35 +28,13 @@ actix-files = { version = "0.6", optional = true }
 actix-web = { version = "4", features = ["macros"], optional = true }
 futures = { version = "0.3", optional = true }
 simple_logger = { version = "4.0", optional = true }
+toml = "0.7.5"
 
 [features]
 default = ["csr"]
-hydrate = [
-  "leptos/hydrate",
-  "leptos_meta/hydrate",
-  "leptos_router/hydrate",
-  "dep:wasm-bindgen",
-  "dep:console_log",
-  "dep:console_error_panic_hook",
-]
-csr = [
-  "leptos/csr",
-  "leptos_meta/csr",
-  "leptos_router/csr",
-  "dep:wasm-bindgen",
-  "dep:console_log",
-  "dep:console_error_panic_hook",
-]
-ssr = [
-  "leptos/ssr",
-  "leptos_meta/ssr",
-  "leptos_router/ssr",
-  "dep:leptos_actix",
-  "dep:actix-web",
-  "dep:actix-files",
-  "dep:futures",
-  "dep:simple_logger",
-]
+hydrate = ["leptos/hydrate", "leptos_meta/hydrate", "leptos_router/hydrate", "dep:wasm-bindgen", "dep:console_log", "dep:console_error_panic_hook"]
+csr = ["leptos/csr", "leptos_meta/csr", "leptos_router/csr", "dep:wasm-bindgen", "dep:console_log", "dep:console_error_panic_hook"]
+ssr = ["leptos/ssr", "leptos_meta/ssr", "leptos_router/ssr", "dep:leptos_actix", "dep:actix-web", "dep:actix-files", "dep:futures", "dep:simple_logger"]
 
 [package.metadata.cargo-all-features]
 denylist = [
@@ -91,7 +69,7 @@ assets-dir = "public"
 # The IP and port (ex: 127.0.0.1:3000) where the server serves the content. Use it in your server setup.
 site-addr = "127.0.0.1:9000"
 # The port to use for automatic reload monitoring
-reload-port = 9001
+reload-port = 8000
 # [Optional] Command to use when running end2end tests. It will run in the end2end dir.
 end2end-cmd = "npx playwright test"
 #  The browserlist query used for optimizing the CSS.
