@@ -3,7 +3,6 @@ use leptos_meta::*;
 use leptos_router::*;
 use std::fs::File;
 use std::io::Read;
-use toml::*;
 
 #[component]
 pub fn App(cx: Scope) -> impl IntoView {
@@ -76,7 +75,7 @@ fn Experience(cx: Scope) -> impl IntoView {
     //    }
     //};
 
-    let render = {
+    let _render = {
         let mut file = File::open("./data/exper").expect("Failed to open file");
         let mut contents = String::new();
         file.read_to_string(&mut contents)
