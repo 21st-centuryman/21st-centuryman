@@ -11,7 +11,6 @@
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
  
-[![Docker](https://img.shields.io/badge/Steam_headless-2496ed.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker]
 [![Homebrew](https://img.shields.io/badge/Personal_tap-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)][Homebrew]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
@@ -22,7 +21,6 @@
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Elixir]: https://github.com/21st-centuryman/ID1019
  
-[Docker]: https://github.com/21st-centuryman/docker-steam-headless
 [Homebrew]: https://github.com/21st-centuryman/homebrew-21st
 [Typescript]: https://github.com/21st-centuryman/II1302
 
