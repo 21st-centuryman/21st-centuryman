@@ -9,8 +9,9 @@
  
 [![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
-[![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir]
- 
+[![Algorithms](https://img.shields.io/badge/Algorithms-FFA116.svg?style=for-the-badge&logoColor=white&logo=Leetcode)][Algorithms]
+
+[![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
 [![Homebrew](https://img.shields.io/badge/Personal_tap-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)][Homebrew]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
@@ -19,8 +20,9 @@
 
 [Rust]: https://github.com/21st-centuryman/Livermore-fetch
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
-[Elixir]: https://github.com/21st-centuryman/ID1019
- 
+[Algorithms]: https://github.com/21st-centuryman/advent_of_code
+
+[Elixir]: https://github.com/21st-centuryman/ID1019 
 [Homebrew]: https://github.com/21st-centuryman/homebrew-21st
 [Typescript]: https://github.com/21st-centuryman/II1302
 
