@@ -35,12 +35,11 @@ If you want to follow me, I hope you enjoy this journey.
 - 🔭 I just landed my first IT job as a QA analyst for Nasdaq.
 - 🌱 I’m currently working on three projects.
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
-  - Livermore: AI analysis and data scraping with yahoo stock history API.
+  - Advent of Code: I have set a goal to code everyday in haskell, python or rust.
   - Portfolio: Rewriting in Leptos/WASM and implementing a blog.
-- 🥅 2023 Summer Goals: Finish the three projects.
-- 👨‍💻 I live stream my learning on my twitch every sunday at 17 or 18 UTC.
+- 👨‍💻 I live stream my learning on my twitch from time to time
 
 ## ⇁  Interests
-- Languages: Rust, Elixir, ?Python?
+- Languages: Rust, Haskell, Python
 - Trendy stuff: AI/ML, Blockchain
 - Nerdy stuff: Linux, Homelabbing
