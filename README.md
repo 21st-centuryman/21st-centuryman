@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_(offline)-654ff0.svg?style=for-the-badge&logoColor=white&logo=webassembly)][Portfolio]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
-[![Livermore](https://img.shields.io/badge/livermore-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][Livermore] 
+[![Docker](https://img.shields.io/badge/Steam--Headless-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker] 
  
 [![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
@@ -17,7 +17,7 @@
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
 [Homelab]: https://github.com/21st-centuryman/Homelab
-[Livermore]: https://github.com/21st-centuryman/Livermore
+[Docker]: https://github.com/21st-centuryman/docker-steam-headless
 
 [Typescript]: https://github.com/21st-centuryman/II1302
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
