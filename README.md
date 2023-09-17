@@ -33,12 +33,12 @@
 If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
-- 🔭 I just landed my first IT job as a QA analyst for Nasdaq.
+- 🔭 I work as a QA Analyst part-time at Nasdaq
 - 🌱 I’m currently working on three projects.
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
-  - Advent of Code: I have set a goal to code everyday in haskell, python or rust.
+  - Advent of Code: I have set a goal to code in haskell, python or rust.
   - Portfolio: Rewriting in Leptos/WASM and implementing a blog.
-- 👨‍💻 I live stream my learning on my twitch from time to time
+- 👨‍💻 I livestream my learning on my twitch from time to time
 
 ## ⇁  Interests
 - Languages: Rust, Haskell, Python
