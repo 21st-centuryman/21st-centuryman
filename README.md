@@ -42,5 +42,5 @@ If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Interests
 - Languages: Rust, Haskell, Python
-- Trendy stuff: AI/ML, Blockchain
+- Tech: AI and Blockchain
 - Nerdy stuff: Linux, Homelabbing
