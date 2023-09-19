@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Alex
-#### Swede, programmer, and life enjoyer.
+### Swede, programmer, and life enjoyer.
 ##### Click the buttons below for my fav repos.
 ###### Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio_(offline)-654ff0.svg?style=for-the-badge&logoColor=white&logo=webassembly)][Portfolio]
