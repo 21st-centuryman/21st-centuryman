@@ -37,7 +37,11 @@ If you want to follow me, I hope you enjoy this journey.
 - 🌱 I’m currently working on three projects.
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
   - Advent of Code: I have set a goal to code in haskell, python or rust.
-  - Portfolio: Rewriting in Leptos/WASM and implementing a blog.
+  - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
+- 💤 I’m currently procrastinating on these projects.
+    - Portfolio: Rewriting in Leptos/WASM and implementing a blog.
+    - Livermore: Process and analyze data from Yahoo finance API
+    - openscad-preview: A noevim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
 
 ## ⇁  Interests
