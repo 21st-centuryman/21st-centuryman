@@ -9,7 +9,7 @@
  
 [![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
-[![Algorithms](https://img.shields.io/badge/Algorithms-FFA116.svg?style=for-the-badge&logoColor=white&logo=Leetcode)][Algorithms]
+[![Algorithms](https://img.shields.io/badge/Algorithms-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=advent-of-code)][Algorithms]
 
 [![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
 [![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
