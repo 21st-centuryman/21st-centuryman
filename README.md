@@ -13,7 +13,7 @@
 
 [![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
 [![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
-[![Homebrew](https://img.shields.io/badge/Personal_tap-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)][Homebrew]
+[![Homebrew](https://img.shields.io/badge/SystemVerilog-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][Risc-V]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
 [Homelab]: https://github.com/21st-centuryman/Homelab
@@ -25,7 +25,7 @@
 
 [Haskell]: https://github.com/21st-centuryman/advent_of_code/tree/main/haskell
 [Elixir]: https://github.com/21st-centuryman/ID1019 
-[Homebrew]: https://github.com/21st-centuryman/homebrew-21st
+[Risc-V]: https://github.com/21st-centuryman/riscy_core
 
 </div>
 
