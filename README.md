@@ -34,6 +34,7 @@ If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
 - 🔭 I work as a QA Analyst part-time at Nasdaq
+- 📖 I study electronics and computer science at KTH 
 - 🌱 I’m currently working on three projects.
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
   - Advent of Code: I have set a goal to code in haskell, python or rust.
