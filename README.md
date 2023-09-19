@@ -2,31 +2,36 @@
 
 ## Alex
 #### Swede, programmer, and life enjoyer.
-
+###### Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio_(offline)-654ff0.svg?style=for-the-badge&logoColor=white&logo=webassembly)][Portfolio]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Docker](https://img.shields.io/badge/Steam--Headless-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker] 
  
-[![Typescript](https://img.shields.io/badge/II1302-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Algorithms](https://img.shields.io/badge/Algorithms-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=advent-of-code)][Algorithms]
-
-[![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
-[![Elixir](https://img.shields.io/badge/ID1019-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
-[![Homebrew](https://img.shields.io/badge/SystemVerilog-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][Risc-V]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Docker]: https://github.com/21st-centuryman/docker-steam-headless
-
-[Typescript]: https://github.com/21st-centuryman/II1302
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
 
+###### Programming languages
+[![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
+[![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
+[![Verilog](https://img.shields.io/badge/SystemVerilog-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][Verilog]
+
+[![Rust](https://img.shields.io/badge/rust-f74c00.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust] 
+[![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
+
+
+
 [Haskell]: https://github.com/21st-centuryman/advent_of_code/tree/main/haskell
 [Elixir]: https://github.com/21st-centuryman/ID1019 
-[Risc-V]: https://github.com/21st-centuryman/riscy_core
+[Verilog]: https://github.com/21st-centuryman/riscy_core
 
+[Rust]: https://github.com/21st-centuryman/advent_of_code/tree/main/rust
+[Typescript]: https://github.com/21st-centuryman/II1302
 </div>
 
 ## ⇁  Welcome
