@@ -8,7 +8,7 @@
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Docker](https://img.shields.io/badge/Steam--Headless-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker] 
  
-[![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
+[![Dotfiles](https://img.shields.io/badge/dotfiles-f05032.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Algorithms](https://img.shields.io/badge/Algorithms-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=advent-of-code)][Algorithms]
 [![riscycore](https://img.shields.io/badge/riscy_core-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
 
