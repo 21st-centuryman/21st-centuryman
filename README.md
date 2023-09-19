@@ -10,26 +10,27 @@
  
 [![Dotfiles](https://img.shields.io/badge/dotfiles-181717.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 [![Algorithms](https://img.shields.io/badge/Algorithms-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=advent-of-code)][Algorithms]
+[![riscycore](https://img.shields.io/badge/riscy_core-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Docker]: https://github.com/21st-centuryman/docker-steam-headless
+
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
+[riscycore]: https://github.com/21st-centuryman/riscy_core
 
 ###### Programming languages
 [![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
 [![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
-[![Verilog](https://img.shields.io/badge/SystemVerilog-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][Verilog]
-
 [![Rust](https://img.shields.io/badge/rust-f74c00.svg?style=for-the-badge&logoColor=white&logo=rust)][Rust] 
+
 [![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 
 
 [Haskell]: https://github.com/21st-centuryman/advent_of_code/tree/main/haskell
 [Elixir]: https://github.com/21st-centuryman/ID1019 
-[Verilog]: https://github.com/21st-centuryman/riscy_core
 
 [Rust]: https://github.com/21st-centuryman/advent_of_code/tree/main/rust
 [Typescript]: https://github.com/21st-centuryman/II1302
