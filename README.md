@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/badge/Steam--Headless-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker] 
  
 [![Dotfiles](https://img.shields.io/badge/dotfiles-f05032.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
-[![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=advent-of-code)][Algorithms]
+[![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=adventofcode)][Algorithms]
 [![riscycore](https://img.shields.io/badge/riscy_core-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
 
 [Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
