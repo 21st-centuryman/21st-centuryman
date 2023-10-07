@@ -51,8 +51,3 @@ If you want to follow me, I hope you enjoy this journey.
     - Livermore: Process and analyze data from Yahoo finance API
     - openscad-preview: A neovim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
-
-## ⇁  Interests
-- Languages: Rust, Haskell, Python
-- Tech: AI and Blockchain
-- Nerdy stuff: Linux, Homelabbing
