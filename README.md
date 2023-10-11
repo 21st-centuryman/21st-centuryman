@@ -4,7 +4,7 @@
 ### Swede, programmer, and life enjoyer.
 ##### Click the buttons below for my fav repos.
 ###### Projects
-[![Portfolio](https://img.shields.io/badge/Portfolio_(offline)-654ff0.svg?style=for-the-badge&logoColor=white&logo=webassembly)][Portfolio]
+[![Blog](https://img.shields.io/badge/Blog-000000.svg?style=for-the-badge&logoColor=white&logo=rust)][Blog]
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![Docker](https://img.shields.io/badge/Steam--Headless-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)][Docker] 
  
@@ -12,7 +12,7 @@
 [![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=adventofcode)][Algorithms]
 [![riscycore](https://img.shields.io/badge/riscy_core-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
 
-[Portfolio]: https://github.com/21st-centuryman/21st-centuryman/tree/main/website
+[Blog]:https://21st-centuryman.github.io 
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Docker]: https://github.com/21st-centuryman/docker-steam-headless
 
