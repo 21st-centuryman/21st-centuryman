@@ -28,10 +28,8 @@
 [![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
 
 
-
 [Haskell]: https://github.com/21st-centuryman/advent_of_code/tree/main/haskell
-[Elixir]: https://github.com/21st-centuryman/ID1019 
-
+[Elixir]: https://github.com/21st-centuryman/ID1019
 [Rust]: https://github.com/21st-centuryman/advent_of_code/tree/main/rust
 [Typescript]: https://github.com/21st-centuryman/II1302
 </div>
@@ -40,14 +38,14 @@
 If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
-- 🔭 I work as a QA Analyst part-time at Nasdaq
+- 🔭 I want to make AI more free and open.
 - 📖 I study electronics and computer science at KTH 
 - 🌱 I’m currently working on three projects.
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
-  - Advent of Code: I have set a goal to code in haskell, python or rust.
-  - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
+  - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
+  - Hugger: Learning AI using huggingface
 - 💤 I’m currently procrastinating on these projects.
-    - Portfolio: Rewriting in Leptos/WASM and implementing a blog.
+    - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
     - Livermore: Process and analyze data from Yahoo finance API
     - openscad-preview: A neovim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
