@@ -1,0 +1,15 @@
+# Use an official nginx image as the base image
+FROM nginx
+
+# Copy the index.html file to the nginx web root
+COPY index.html /usr/share/nginx/html/
+
+# Expose port 443 for HTTPS traffic
+EXPOSE 443
+
+# Copy the nginx configuration file to the image
+COPY nginx.conf /etc/nginx/
+
+# Start nginx
+CMD ["nginx", "-g", "daemon off;"]
+
