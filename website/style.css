@@ -1,11 +1,11 @@
 /* @media (prefers-color-scheme: light) { */
 .dark-mode {
-  display: inline-block;
+  visibility: hidden;
+  display: none;
 }
 
 .light-mode {
-  visibility: hidden;
-  display: none;
+  display: inline-block;
 }
 
 /* } */
