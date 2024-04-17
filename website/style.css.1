@@ -1,0 +1,66 @@
+body {
+  font-family: 'Lucida Console', monospace;
+  font-size: 18px;
+  color: #111;
+  background-color: white;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+
+.landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.command {
+  width: 100%;
+  max-width: 400px;
+  display: inline-block;
+  text-align: left;
+}
+
+.logo {
+  width: 100%;
+  max-width: 400px;
+  display: inline-block;
+}
+
+.links {
+  font-size: 24px;
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: lightgrey;
+  width: 100%;
+  margin: 30px auto;
+}
+
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 400px;
+  gap: 15px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: solid #d3d3d3;
+  border-radius: 20px;
+}
