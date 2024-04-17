@@ -1,3 +1,24 @@
+@media (prefers-color-scheme: light) {
+  .dark-mode {
+    display: inline-block;
+  }
+
+  .light-mode {
+    display: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark-mode {
+    display: none;
+  }
+
+  .light-mode {
+    display: inline-block;
+  }
+}
+
+
 body {
   font-family: 'Lucida Console', monospace;
   font-size: 18px;
@@ -28,7 +49,6 @@ body {
 .logo {
   width: 100%;
   max-width: 400px;
-  display: inline-block;
 }
 
 .links {
@@ -53,7 +73,7 @@ hr {
 .items {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 400px;
+  grid-template-rows: 100%;
   gap: 15px;
 }
 
