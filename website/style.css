@@ -53,6 +53,7 @@ hr {
   display: grid;
   grid-template-columns: repeat(auto-fit, 280px);
   width: 100%;
+  gap: 10px;
 }
 
 .item {
