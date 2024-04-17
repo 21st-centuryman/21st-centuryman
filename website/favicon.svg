@@ -1,0 +1,8 @@
+<svg viewBox="0 0 30 40" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
+  <!-- a -->
+  <rect x="0" y="0" width="10" height="40" fill="#000000" />
+  <rect x="10" y="0" width="10" height="10" fill="#000000" />
+  <rect x="10" y="10" width="10" height="10" fill="#000000" />
+  <rect x="10" y="30" width="10" height="10" fill="#000000" />
+  <rect x="20" y="10" width="10" height="30" fill="#000000" />
+</svg>
