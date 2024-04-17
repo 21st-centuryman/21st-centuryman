@@ -49,9 +49,7 @@ hr {
   margin: 30px auto;
 }
 
-.items {
-  display: grid;
-}
+.items {}
 
 .item {
   display: flex;
