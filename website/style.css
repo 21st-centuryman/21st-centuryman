@@ -75,7 +75,7 @@ hr {
 .contact-item {
   display: flex;
   flex-direction: column;
-  padding: 0 2px;
+  padding: 0 6px;
 }
 
 .right {
