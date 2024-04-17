@@ -1,31 +1,7 @@
-/* @media (prefers-color-scheme: light) { 
-.dark-mode {
-  visibility: hidden;
-  display: none;
-}
-
-.light-mode {
-  display: inline-block;
-}
-
- } 
-
-
-@media (prefers-color-scheme: dark) {
-  .dark-mode {
-    visibility: hidden;
-    display: none;
-  }
-
-  .light-mode {
-    display: inline-block;
-  }
-}
-*/
-
 body {
   font-family: 'Lucida Console', monospace;
   font-size: 18px;
+  color: #111;
   background-color: white;
   max-width: 1280px;
   margin: 0 auto;
@@ -75,21 +51,16 @@ hr {
 
 
 .items {
-  max-width: 100%;
-  /*
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 15px;
-*/
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 400px;
+  gap: 15px;
 }
 
 .item {
-  padding: 20px;
-  /*
   display: flex;
   flex-direction: column;
   padding: 20px;
   border: solid #d3d3d3;
   border-radius: 20px;
-*/
 }
