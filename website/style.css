@@ -63,21 +63,3 @@ hr {
   border: solid #d3d3d3;
   border-radius: 20px;
 }
-
-
-.contact {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-}
-
-.contact-item {
-  display: flex;
-  flex-direction: column;
-  padding: 0 6px;
-}
-
-.right {
-  text-align: right;
-}
