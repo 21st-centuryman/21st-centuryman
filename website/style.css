@@ -4,12 +4,14 @@
   }
 
   .light-mode {
+    visibility: hidden;
     display: none;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   .dark-mode {
+    visibility: hidden;
     display: none;
   }
 
