@@ -49,9 +49,10 @@ hr {
   margin: 30px auto;
 }
 
-.grid {
+.item-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 15px;
 }
 
 .item {
