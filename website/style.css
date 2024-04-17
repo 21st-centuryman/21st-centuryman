@@ -38,7 +38,7 @@ body {
 
 a {
   text-decoration: none;
-  color: inherit
+  color: inherit;
 }
 
 hr {
@@ -51,8 +51,9 @@ hr {
 
 .item-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fit, 280px);
+  grid-auto-rows: 100%;
+  width: 100%;
 }
 
 .item {
