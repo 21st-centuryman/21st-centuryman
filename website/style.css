@@ -29,8 +29,6 @@ body {
   color: #000000;
   background-color: white;
   max-width: 1280px;
-  width: 100%;
-  position: fixed;
   margin: 0 auto;
   padding: 0 50px;
   box-sizing: border-box;
