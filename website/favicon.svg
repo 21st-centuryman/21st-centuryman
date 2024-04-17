@@ -1,4 +1,6 @@
-<svg viewBox="0 0 30 40" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
+<svg viewBox="-10 -10 60 50" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
+  <!-- background -->
+  <rect x="-10" y="-10" width="50" height="60" fill="#ffffff" />
   <!-- a -->
   <rect x="0" y="0" width="10" height="40" fill="#000000" />
   <rect x="10" y="0" width="10" height="10" fill="#000000" />
