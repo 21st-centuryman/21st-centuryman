@@ -49,14 +49,14 @@ hr {
   margin: 30px auto;
 }
 
-
+/*
 .items {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 400px;
   gap: 15px;
 }
-
+*/
 .item {
   display: flex;
   flex-direction: column;
