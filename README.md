@@ -38,9 +38,9 @@ If you want to follow me, I hope you enjoy this journey.
 - 🔭 I want to make AI more free and open.
 - 📖 I study electronics and computer science at KTH 
 - 🌱 I’m currently working on three projects.
+  - Thesis: Writing a ML framework in Rust
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
   - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
-  - Thesis: Writing a ML framework in Rust
 - 💤 I’m currently procrastinating on these projects.
     - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
     - Livermore: Process and analyze data from Yahoo finance API
