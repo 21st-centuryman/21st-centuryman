@@ -1,0 +1,36 @@
+use crate::error_template::{AppError, ErrorTemplate};
+use crate::home::HomePage;
+use leptos::*;
+use leptos_meta::*;
+use leptos_router::*;
+
+#[component]
+pub fn App() -> impl IntoView {
+    provide_meta_context();
+
+    view! {
+        <Stylesheet href="styles.css"/>
+        <Link rel="icon" type_="image/x-icon" href="./favicon.svg"/>
+
+        <Router fallback=|| {
+            let mut outside_errors = Errors::default();
+            outside_errors.insert_with_default_key(AppError::NotFound);
+            view! { <ErrorTemplate outside_errors/> }.into_view()
+        }>
+            <main>
+                <Routes>
+                    <Route path="" view=HomePage/>
+                    //<Route path="showcase" view=ShowcasePage/>
+                </Routes>
+            </main>
+        </Router>
+    }
+}
+
+//#[component]
+//fn ShowcasePage() -> impl IntoView {
+//    view! {
+//        <Title text="Showcase: Alexander Berg"/>
+//        <h1>"Welcome to Showcase!"</h1>
+//    }
+//}
