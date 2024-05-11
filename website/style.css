@@ -1,12 +1,14 @@
 :root {
-  --white: #dce0e8;
+  --white: #ffffff;
+  --light-grey: #dce0e8;
   --black: #181825;
+  --dark-black: #11111b;
   --grey: #8c8fa1;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: var(--white);
+    color: var(--light-grey);
     background-color: var(--black);
   }
 
@@ -21,7 +23,7 @@
 
 @media (prefers-color-scheme: light) {
   body {
-    color: var(--black);
+    color: var(--dark-black);
     background-color: var(--white);
   }
 
