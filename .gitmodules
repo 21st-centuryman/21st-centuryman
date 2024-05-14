@@ -1,0 +1,3 @@
+[submodule "website/blog"]
+	path = website/blog
+	url = git@github.com:21st-centuryman/blog.git
