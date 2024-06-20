@@ -5,10 +5,24 @@
   <title>Alexander Berg</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- css -->
+  <link rel="stylesheet" href="styles/main.css">
+  <!-- favicon dark and light, does not work on safari -->
   <link href="./favicon_dark.svg" rel="icon" media="(prefers-color-scheme: light)">
   <link href="./favicon_light.svg" rel="icon" media="(prefers-color-scheme: dark)">
-  <link rel="stylesheet" href="styles/main.css">
+  <!-- HTMX -->
+  <script src="https://unpkg.com/htmx.org@2.0.0"></script>
 </head>
+
+<header style="width: 100%; height: 40px; background: #181825; position: fixed;">
+  <div hx-boost="true" style="margin: 10px 0;height: 20px; background: green; font-size: 16px;">
+    <a>[cab]</a>
+    <a href="./">0:home</a>
+    <a href="./showcase">1:showcase</a>
+    <a href="./contact/index.html">3:contact</a>
+  </div>
+</header>
+
 
 <body>
   <!-- LANDING PAGE -->
@@ -28,6 +42,7 @@
     <br />
   </div>
   <hr>
+
   <!-- PROJECT PAGE -->
   <div id="projects">
     <h3>My favorite projects</h3>
@@ -56,6 +71,7 @@
 
   </div>
   <hr>
+
   <!-- WORK PAGE -->
   <div id="career">
     <h3>Resume</h3>
