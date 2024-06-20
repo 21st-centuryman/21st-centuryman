@@ -4,6 +4,7 @@
   --black: #181825;
   --dark-black: #11111b;
   --grey: #8c8fa1;
+  --green: #5a931b;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,10 +37,23 @@
   }
 }
 
-
 body {
   font-family: 'Lucida Console', monospace;
   font-size: 18px;
+}
+
+header {
+  background-color: var(--green);
+  font-size: 16px;
+  height: 20px;
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+main {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 50px;
