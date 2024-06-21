@@ -55,6 +55,7 @@ header {
 }
 
 header a:hover {
+  font-weight: normal;
   text-decoration: none;
 }
 
