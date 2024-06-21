@@ -132,3 +132,8 @@ hr {
   border: solid var(--grey);
   border-radius: 20px;
 }
+
+.item:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
