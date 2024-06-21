@@ -17,6 +17,17 @@
   <a href="./contact.html">2:contact</a>
 </header>
 
+<script>
+  document.addEventListener('keydown', function (event) {
+    switch (event.key) {
+      case '0': window.location.href = './about.html'; break;
+      case '1': window.location.href = './showcase.html'; break;
+      case '2': window.location.href = './contact.html'; break;
+      default: break;
+    }
+  });
+</script>
+
 <main>
   <div class="landing">
     <p class="command">$ which information</p>
