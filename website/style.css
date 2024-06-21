@@ -107,7 +107,8 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 hr {
@@ -131,9 +132,4 @@ hr {
   padding: 20px;
   border: solid var(--grey);
   border-radius: 20px;
-}
-
-.item:hover {
-  font-weight: bold;
-  text-decoration: none;
 }
