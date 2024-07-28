@@ -42,9 +42,10 @@ If you want to follow me, I hope you enjoy this journey.
 - 🌱 I’m currently working on three projects.
   - Thesis: Writing a ML framework in Rust
   - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
+  - Livermore: Process and analyze data from Yahoo finance API
   - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
 - 💤 I’m currently procrastinating on these projects.
     - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
-    - Livermore: Process and analyze data from Yahoo finance API
+    - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
     - openscad-preview: A neovim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
