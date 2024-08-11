@@ -36,7 +36,7 @@ setInterval(() => {
   let minutes = afterHours / BigInt(60);
   let seconds = afterHours - (minutes * BigInt(60));
 
-  document.getElementById('heath_death').innerText = `${Number(galactic).toExponential(4).toString()} gal\n${millenium.toString()} millenium\n${years.toString()} years\n${months.toString()} months\n${days.toString()} days\n${hours.toString()}:${minutes.toString()}:${seconds.toString()} seconds`;
+  document.getElementById('heath_death').innerText = `${Number(galactic).toExponential(3).toString()} gal\n${millenium.toString()} millenium\n${years.toString()} year(s)\n${months.toString()} month(s)\n${days.toString()} day(s)\n${hours.toString()}:${minutes.toString()}:${seconds.toString()}`;
 }, 1000);
 }
 death()
