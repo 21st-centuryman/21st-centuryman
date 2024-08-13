@@ -131,7 +131,6 @@ function conways() {
     return nextVals;
   }
 
-
   function game_of_life() {
     values = next_frame(values, next_values(values))
     if (running) {
