@@ -21,11 +21,16 @@
   .light-mode {
     display: none;
   }
+
+  .item button {
+    color: var(--black);
+    background-color: var(--light-grey);
+  }
 }
 
 @media (prefers-color-scheme: light) {
   body {
-    color: var(--dark-black);
+    color: var(--black);
     background-color: var(--white);
   }
 
@@ -35,6 +40,11 @@
 
   .light-mode {
     display: inline-block;
+  }
+
+  .item button {
+    color: var(--light-grey);
+    background-color: var(--black);
   }
 }
 
@@ -139,6 +149,7 @@ hr {
   grid-template-columns: repeat(auto-fit, 280px);
   width: 100%;
   gap: 10px;
+  margin-bottom: 100px;
 }
 
 .item {
@@ -161,4 +172,65 @@ hr {
 
 .item-grid a:visited {
   color: inherit;
+}
+
+.item div {
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item button {
+  width: 50%;
+  margin: 10px auto;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+  transition: 0.3s ease-in-out;
+}
+
+.item button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+
+/* Conway's game of life */
+#grid {
+  border-collapse: collapse;
+  visibility: hidden;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#grid td {
+  border: 0.5px solid;
+  width: 1px;
+  height: 1px;
+}
+
+@media (prefers-color-scheme: dark) {
+  #grid td {
+    border-color: white;
+  }
+
+  .filled {
+    background-color: white;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  #grid td {
+    border-color: black;
+  }
+
+  .filled {
+    background-color: black;
+  }
+}
+
+
+#restart {
+  display: none
 }

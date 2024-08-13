@@ -9,6 +9,7 @@
   <link href="./assets/favicon_light.ico" rel="icon" media="(prefers-color-scheme: dark)">
   <link rel="stylesheet" href="style.css">
   <script src="./main.js"></script>
+  <script src="./showcase.js"></script>
 </head>
 
 <header>
@@ -22,35 +23,36 @@
 <main>
   <br /><br />
   <h3>Showcase</h3>
-  <p> Below are some links to some projects I am really proud of. My goal is to eventually embed some more of them (and
-    future ones) into this website using WEBGPU. As soon as I find the time.</p>
+  <p> Below are some links to some projects I am really proud of or stuff I just had fun building. My goal is to
+    eventually embed some more of the higher end ones into this website using WEBGPU. As soon as I
+    find the time.</p>
   <hr>
   <div id="projects">
     <h3>My favorite projects</h3>
     <div class="item-grid">
-      <a href="https://github.com/21st-centuryman/Livermore" class="item">
+      <a href="https://github.com/21st-centuryman/Livermore" target="_blank" class="item">
         <u>Livermore</u>
         <p>A collection of two projects for fetching and training machine learning models on stock data. Livermore-fetch
           is written in Rust and Polars, it uses the yahoo finance api to process and fetch data. Livermore-analyze is a
           gym enviornment for training machine learning models on this data</p>
       </a>
-      <a href="https://github.com/21st-centuryman/Homelab" class="item">
+      <a href="https://github.com/21st-centuryman/Homelab" target="_blank" class="item">
         <u>Homelab</u>
         <p>A collection of the services I self-host, using applications like NGINX, Proxmox, Docker, OPNSense etc. As
           well as dealing with concepts sucha as reverse proxy, SSL, Load balancing, etc.</p>
       </a>
-      <a href="https://github.com/21st-centuryman/riscy_core" class="item">
+      <a href="https://github.com/21st-centuryman/riscy_core" target="_blank" class="item">
         <u>Riscy Core</u>
         <p>A 32-bit RISC V cpu I am building on the side of the school. A plan to further explore topics my education
           barely touched on.</p>
       </a>
-      <a href="https://github.com/21st-centuryman/advent_of_code" class="item">
+      <a href="https://github.com/21st-centuryman/advent_of_code" target="_blank" class="item">
         <u>Advent of code</u>
         <p>I love programming paradigms, therefore I'm doing as many days as I can in AOC using Haskell, Rust, Python,
           C, and Pytorch/tinygrad. In the future, I plan to do Agda and APL as well.
         </p>
       </a>
-      <a href="https://github.com/Jay-lex/micrograd" class="item">
+      <a href="https://github.com/Jay-lex/micrograd" target="_blank" class="item">
         <u>Micrograd-rs</u>
         <p> My thesis project, me and a friend will write an ML framework in Rust. Stay tuned for more! </p>
       </a>
@@ -58,6 +60,14 @@
         <u>T- Solve Everything</u>
         <p id="heath_death"></p>
       </a>
+      <div class="item">
+        <u>Conway's Game Of Life</u>
+        <div>
+          <button id="start">Start</button>
+          <button id="restart">Restart</button>
+          <table id="grid"></table>
+        </div>
+      </div>
     </div>
   </div>
 </main>
