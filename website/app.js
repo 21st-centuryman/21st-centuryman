@@ -81,6 +81,18 @@ function conways() {
       [(grid_size / 2) + 3, (grid_size / 2) + 1],
       [(grid_size / 2) + 4, (grid_size / 2) + 1],
       [(grid_size / 2) + 3, (grid_size / 2) - 1],
+    ],
+    [ // B
+      [(grid_size / 2), (grid_size / 2)],
+      [(grid_size / 2), (grid_size / 2) - 1],
+      [(grid_size / 2) + 1, (grid_size / 2)],
+      [(grid_size / 2) - 1, (grid_size / 2)],
+      [(grid_size / 2) - 1, (grid_size / 2) - 1],
+      [(grid_size / 2) - 1, (grid_size / 2) + 1],
+      [(grid_size / 2) + 1, (grid_size / 2) + 1],
+      [(grid_size / 2), (grid_size / 2) + 2],
+      [(grid_size / 2) - 1, (grid_size / 2) + 2],
+      [(grid_size / 2) + 1, (grid_size / 2) + 2],
     ]];
 
     let start = list[(Math.floor(Math.random() * list.length))];
@@ -99,7 +111,7 @@ function conways() {
     });
 
     next_vals.forEach(next_val => {
-      if (next_val[0] >= 0 && next_val[0] < grid_size && next_val[1] >= 0 && next_val[1] < grid_size) {
+      if (grid_size > next_val[0] >= 0 && grid_size > next_val[1] >= 0) {
         grid.rows[next_val[1]].cells[next_val[0]].classList.add('filled');
       }
     })
@@ -112,8 +124,10 @@ function conways() {
 
     values.forEach(val => {
       directions.forEach(dir => {
-        const neighbor = `${val[0] + dir[0]},${val[1] + dir[1]}`;
-        if (!neighborsMap.has(neighbor)) {
+        const vals = [val[0] + dir[0],val[1] + dir[1]];
+        const within_grid = vals[0] >= 0 && vals[1] >= 0 && vals[0] < grid_size && vals[1] < grid_size;
+        const neighbor = `${vals[0]},${vals[1]}`;
+        if (!neighborsMap.has(neighbor) && within_grid) {
           neighborsMap.set(neighbor, 0);
         }
         neighborsMap.set(neighbor, neighborsMap.get(neighbor) + 1);
