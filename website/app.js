@@ -6,8 +6,8 @@
 // T- heat death of the universe
 // ---------------------------------
 function deaths(current) {
-  let heath_death = BigInt(Math.pow(10, 100) * 31556952); // According to wikipedia 10^100 years = death of universe
-	let countdown = heath_death - BigInt(Math.floor(current / 1000)); // Javascript does unix timestamp in mili??? ok dumb
+  const heath_death = BigInt(Math.pow(10, 100) * 31556952); // According to wikipedia 10^100 years = death of universe
+	const countdown = heath_death - BigInt(Math.floor(current / 1000)); // Javascript does unix timestamp in mili??? ok dumb
   const unix_time = [
     { value: 225000 * 31556952000, name: 'galactic' },
     { value: 31556952000, name: 'millennium' },
@@ -17,8 +17,8 @@ function deaths(current) {
     { value: 3600, name: 'hours' },
     { value: 60, name: 'minutes' },
   ];
-	let time = unix_time.reduce((acc, unit) => {
-		let value = countdown / BigInt(unit.value);
+	const time = unix_time.reduce((acc, unit) => {
+		const value = countdown / BigInt(unit.value);
 		countdown = countdown - (value * BigInt(unit.value));
 		acc.push(Number(value));
 		return acc;
