@@ -45,9 +45,8 @@ If you want to follow me, I hope you enjoy this journey.
   - Thesis: Writing a ML framework in Rust
   - Homelabbing: setting up a ML enviornment, and other issues, all mentioned in project.
   - RISCY Cores: a collection of cores I have developed in SystemVerilog. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions.
-  - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
 - 💤 I’m currently procrastinating on these projects.
     - Livermore: An AI to process and analyze data from Yahoo finance API. I have some bug fixes to do.
-    - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
+    - Advent of Code: I have set a goal to code in SystemVerilog, pytorch/tinygrad, haskell, python or rust.
     - openscad-preview: A neovim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
