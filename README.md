@@ -17,7 +17,7 @@
 
 [Website]:https://calexanderberg.com
 [Homelab]: https://github.com/21st-centuryman/Homelab
-[Thesis]: https://github.com/teeny-kth/teenygrad
+[Thesis]: https://github.com/Jay-lex/micrograd
 
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
