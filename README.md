@@ -12,7 +12,7 @@
 [![Dotfiles](https://img.shields.io/badge/dotfiles-f05032.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 
 [![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=adventofcode)][Algorithms]
-[![riscycore](https://img.shields.io/badge/riscy_cores-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
+[![riscycore](https://img.shields.io/badge/riscy_cores-283272.svg?style=for-the-badge&logoColor=yellow&logo=Risc-V)][riscycore]
 [![RL](https://img.shields.io/badge/Livermore-EE4C2C.svg?style=for-the-badge&logoColor=white&logo=pytorch)][RL]
 
 [Website]:https://calexanderberg.com
