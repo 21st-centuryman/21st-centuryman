@@ -44,7 +44,7 @@ If you want to follow me, I hope you enjoy this journey.
 - 🌱 I’m currently working on three projects.
   - Thesis: Writing a ML framework in Rust
   - Homelabbing: setting up a ML enviornment, and other issues, all mentioned in project.
-  - RISCY Cores: a collection of course I have developed in system bar log. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions.
+  - RISCY Cores: a collection of cores I have developed in SystemVerilog. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions.
   - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
 - 💤 I’m currently procrastinating on these projects.
     - Livermore: An AI to process and analyze data from Yahoo finance API. I have some bug fixes to do.
