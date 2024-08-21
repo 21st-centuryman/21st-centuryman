@@ -39,7 +39,7 @@
 If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
-- 🔭 I want to make AI more free and open.
+- 🔭 I want to accelerate technological development.
 - 📖 I study electronics and computer science at KTH 
 - 🌱 I’m currently working on three projects.
   - Thesis: Writing a ML framework in Rust
