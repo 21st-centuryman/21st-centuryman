@@ -12,16 +12,16 @@
 [![Dotfiles](https://img.shields.io/badge/dotfiles-f05032.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
 
 [![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=adventofcode)][Algorithms]
-[![riscycore](https://img.shields.io/badge/riscy_core-283272.svg?style=for-the-badge&logoColor=white&logo=Risc-V)][riscycore]
+[![riscycore](https://img.shields.io/badge/riscy_cores-283272.svg?style=for-the-badge&logoColor=yellow&logo=Risc-V)][riscycore]
 [![RL](https://img.shields.io/badge/Livermore-EE4C2C.svg?style=for-the-badge&logoColor=white&logo=pytorch)][RL]
 
 [Website]:https://calexanderberg.com
 [Homelab]: https://github.com/21st-centuryman/Homelab
-[Thesis]: https://github.com/teeny-kth/teenygrad
+[Thesis]: https://github.com/Jay-lex/micrograd
 
 [Dotfiles]: https://github.com/21st-centuryman/dotfiles
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
-[riscycore]: https://github.com/21st-centuryman/riscy_core
+[riscycore]: https://github.com/21st-centuryman/riscy_cores
 [RL]: https://github.com/21st-centuryman/Livermore
 
 ###### Programming languages
@@ -39,15 +39,14 @@
 If you want to follow me, I hope you enjoy this journey.
 
 ## ⇁  Current status
-- 🔭 I want to make AI more free and open.
+- 🔭 I want to accelerate technological development.
 - 📖 I study electronics and computer science at KTH 
 - 🌱 I’m currently working on three projects.
   - Thesis: Writing a ML framework in Rust
-  - Homelabbing: setting up reverse proxies, and other issues, all mentioned in project.
-  - Livermore: Process and analyze data from Yahoo finance API
-  - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
+  - Homelabbing: setting up a ML enviornment, and other issues, all mentioned in project.
+  - RISCY Cores: a collection of cores I have developed in SystemVerilog. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions.
 - 💤 I’m currently procrastinating on these projects.
-    - RISCY Core: Write a 32 bit computer in RISC-V, with all basic extensions. Then extend it to 64.
-    - Advent of Code: I have set a goal to code in pytorch/tinygrad, haskell, python or rust.
+    - Livermore: An AI to process and analyze data from Yahoo finance API. I have some bug fixes to do.
+    - Advent of Code: I have set a goal to code in SystemVerilog, pytorch/tinygrad, haskell, python or rust.
     - openscad-preview: A neovim plugin that will render the openscad code in a browser using web assembly. I don't like the openscad app renderer. I need to get a 3d printer first lol.
 - 👨‍💻 I livestream my learning on my twitch from time to time
