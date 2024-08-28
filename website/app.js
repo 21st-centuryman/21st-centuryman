@@ -8,23 +8,22 @@
 function deaths(current) {
   let heath_death = BigInt(Math.pow(10, 100) * 31556952); // According to wikipedia 10^100 years = death of universe
 	let countdown = heath_death - BigInt(Math.floor(current / 1000)); // Javascript does unix timestamp in mili??? ok dumb
-  const unix_time = [
-    { value: 225000 * 31556952000, name: 'galactic' },
-    { value: 31556952000, name: 'millennium' },
-    { value: 31556952, name: 'years' },
-    { value: 2592000, name: 'months' },
-    { value: 86400, name: 'days' },
-    { value: 3600, name: 'hours' },
-    { value: 60, name: 'minutes' },
+  const time_unit = [
+     229970 * 31557600000, 
+     31557600000, 
+     31557600,
+     2678400,
+     86400, 
+     3600, 
+     60,
   ];
-	let time = unix_time.reduce((acc, unit) => {
-		let value = countdown / BigInt(unit.value);
-		countdown = countdown - (value * BigInt(unit.value));
-		acc.push(Number(value));
-		return acc;
-	}, []);
+  let time = time_unit.map((x) => {
+    let value = countdown / BigInt(x);
+		countdown %= BigInt(x);
+    return value;
+  });
 	document.getElementById('heath_death').innerText = 
-   `${time[0].toExponential(1).replace(/e\+?/, ' x 10^')} gal
+   `${time[0].toString().substring(0, 1)}.${time[0].toString().substring(1,2)} x 10^${time[0].toString().substring(2).length} gal
     ${time[1]} millenium
     ${time[2]} year(s)
     ${time[3]} month(s)
