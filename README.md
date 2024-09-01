@@ -24,15 +24,6 @@
 [riscycore]: https://github.com/21st-centuryman/riscy_cores
 [RL]: https://github.com/21st-centuryman/Livermore
 
-###### Programming languages
-[![Haskell](https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logoColor=white&logo=haskell)][Haskell] 
-[![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logoColor=white&logo=elixir)][Elixir] 
-[![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logoColor=white&logo=typescript)][Typescript]
-
-
-[Haskell]: https://github.com/21st-centuryman/advent_of_code/tree/main/haskell
-[Elixir]: https://github.com/21st-centuryman/ID1019
-[Typescript]: https://github.com/21st-centuryman/II1302
 </div>
 
 ## ⇁  Welcome
