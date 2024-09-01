@@ -9,7 +9,7 @@
 
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![thesis](https://img.shields.io/badge/Thesis-f74c00.svg?style=for-the-badge&logoColor=white&logo=rust)][Thesis] 
-[![Dotfiles](https://img.shields.io/badge/dotfiles-f05032.svg?style=for-the-badge&logoColor=white&logo=git)][Dotfiles]
+[![Kicad](https://img.shields.io/badge/PCB_NFC_design-314CB0.svg?style=for-the-badge&logoColor=white&logo=kicad)][Kicad]
 
 [![Algorithms](https://img.shields.io/badge/Advent_of_code-0f0f23.svg?style=for-the-badge&logoColor=yellow&logo=adventofcode)][Algorithms]
 [![riscycore](https://img.shields.io/badge/riscy_cores-283272.svg?style=for-the-badge&logoColor=yellow&logo=Risc-V)][riscycore]
@@ -19,7 +19,7 @@
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Thesis]: https://github.com/Jay-lex/micrograd
 
-[Dotfiles]: https://github.com/21st-centuryman/dotfiles
+[Kicad]: https://github.com/21st-centuryman/nfc_business_card
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
 [riscycore]: https://github.com/21st-centuryman/riscy_cores
 [RL]: https://github.com/21st-centuryman/Livermore
