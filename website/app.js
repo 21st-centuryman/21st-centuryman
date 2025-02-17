@@ -9,10 +9,10 @@ function deaths(current) {
   let heath_death = BigInt(Math.pow(10, 100) * 31556952); // According to wikipedia 10^100 years = death of universe
 	let countdown = heath_death - BigInt(Math.floor(current / 1000)); // Javascript does unix timestamp in mili??? ok dumb
   const time_unit = [
-     229970 * 31557600000, 
-     31557600000, 
-     31557600,
-     2678400,
+     225000 * 31556952000, 
+     31556952000, 
+     31556952,
+     2629746, // The mean month-length is 30.436875 day not 31
      86400, 
      3600, 
      60,
