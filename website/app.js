@@ -5,25 +5,26 @@
 // ---------------------------------
 // T- heat death of the universe
 // ---------------------------------
-function deaths(current) {
-  let heath_death = BigInt(Math.pow(10, 100) * 31556952); // According to wikipedia 10^100 years = death of universe
-	let countdown = heath_death - BigInt(Math.floor(current / 1000)); // Javascript does unix timestamp in mili??? ok dumb
+function deaths(now) {
+  const heatDeath = 31_557_600n * 10n ** 100n;
+  const current = BigInt(Math.floor(now / 1000)); // Javascript does unix timestamp in mili??? ok dumb
   const time_unit = [
-     229970 * 31557600000, 
-     31557600000, 
-     31557600,
-     2678400,
-     86400, 
-     3600, 
-     60,
+     225n * 31_557_600n * 1_000_000n, // Galactic year (225 million years)
+     31_557_600n * 1_000n,           // Millennium
+     31_557_600n,                    // Year (365.25 days)
+     2_551_392n,                     // Month (29.53 days)
+     86_400n,                        // Day
+     3_600n,                         // Hour 
+     60n,                            // Min
   ];
-  let time = time_unit.map((x) => {
-    let value = countdown / BigInt(x);
+  let countdown = heatDeath - current;
+  const time = time_unit.map((x) => {
+    const value = countdown / BigInt(x);
 		countdown %= BigInt(x);
     return value;
   });
 	document.getElementById('heath_death').innerText = 
-   `${time[0].toString().substring(0, 1)}.${time[0].toString().substring(1,2)} x 10^${time[0].toString().substring(2).length} gal
+   `${time[0].toString().substring(0, 1)}.${time[0].toString().substring(1,2)} x 10^${time[0].toString().substring(1).length} gal
     ${time[1]} millenium
     ${time[2]} year(s)
     ${time[3]} month(s)
