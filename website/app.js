@@ -148,7 +148,7 @@ function conways() {
   function game_of_life() {
     values = next_frame(values, next_values(values))
     if (running) {
-      timeoutId = setTimeout(game_of_life, 1);
+      timeoutId = setTimeout(game_of_life, 2);
     }
   }
 
