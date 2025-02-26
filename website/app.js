@@ -81,18 +81,19 @@ function conways() {
       [(grid_size / 2) + 4, (grid_size / 2) + 1],
       [(grid_size / 2) + 3, (grid_size / 2) - 1],
     ],
-    [ // B
-      [(grid_size / 2), (grid_size / 2)],
-      [(grid_size / 2), (grid_size / 2) - 1],
-      [(grid_size / 2) + 1, (grid_size / 2)],
-      [(grid_size / 2) - 1, (grid_size / 2)],
-      [(grid_size / 2) - 1, (grid_size / 2) - 1],
-      [(grid_size / 2) - 1, (grid_size / 2) + 1],
-      [(grid_size / 2) + 1, (grid_size / 2) + 1],
-      [(grid_size / 2), (grid_size / 2) + 2],
-      [(grid_size / 2) - 1, (grid_size / 2) + 2],
-      [(grid_size / 2) + 1, (grid_size / 2) + 2],
-    ]];
+    //[ // B
+    //  [(grid_size / 2), (grid_size / 2)],
+    //  [(grid_size / 2), (grid_size / 2) - 1],
+    //  [(grid_size / 2) + 1, (grid_size / 2)],
+    //  [(grid_size / 2) - 1, (grid_size / 2)],
+    //  [(grid_size / 2) - 1, (grid_size / 2) - 1],
+    //  [(grid_size / 2) - 1, (grid_size / 2) + 1],
+    //  [(grid_size / 2) + 1, (grid_size / 2) + 1],
+    //  [(grid_size / 2), (grid_size / 2) + 2],
+    //  [(grid_size / 2) - 1, (grid_size / 2) + 2],
+    //  [(grid_size / 2) + 1, (grid_size / 2) + 2],
+    //]
+    ];
 
     let start = list[(Math.floor(Math.random() * list.length))];
 
@@ -147,7 +148,7 @@ function conways() {
   function game_of_life() {
     values = next_frame(values, next_values(values))
     if (running) {
-      timeoutId = setTimeout(game_of_life, 1);
+      timeoutId = setTimeout(game_of_life, 30);
     }
   }
 
