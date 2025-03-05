@@ -19,7 +19,7 @@
 [Homelab]: https://github.com/21st-centuryman/Homelab
 [Thesis]: https://github.com/21st-centuryman/micrograd-rs
 
-[Kicad]: https://github.com/21st-centuryman/nfc_business_card
+[Kicad]: https://github.com/21st-centuryman/business_card
 [Algorithms]: https://github.com/21st-centuryman/advent_of_code
 [riscycore]: https://github.com/21st-centuryman/riscy_cores
 [RL]: https://github.com/21st-centuryman/Livermore
