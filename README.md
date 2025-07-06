@@ -2,9 +2,10 @@
 
 ## Alex
 ### Swede, programmer, and life enjoyer.
-##### Click the buttons below for my fav repos.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcalexanderberg.com&up_color=green&down_color=red&style=for-the-badge&label=website&labelColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSItMTAgLTEwIDYwIDYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDwhLS0gYiAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iNDAiIGZpbGw9IiMwMDAwMDAiIC8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAwMDAwIiAvPgogIDxyZWN0IHg9IjAiIHk9IjEwIiB3aWR0aD0iMzAiIGhlaWdodD0iMTAiIGZpbGw9IiMwMDAwMDAiIC8+CiAgPHJlY3QgeD0iMCIgeT0iMzAiIHdpZHRoPSIzMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzAwMDAwMCIgLz4KICA8cmVjdCB4PSIyMCIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIzMCIgZmlsbD0iIzAwMDAwMCIgLz4KPC9zdmc+Cg==)][Website]
+
+##### My fav repos. Click for more:
 
 [![Homelab](https://img.shields.io/badge/homelab-41BDF5.svg?style=for-the-badge&logoColor=white&logo=homeassistant)][Homelab]
 [![thesis](https://img.shields.io/badge/Thesis-f74c00.svg?style=for-the-badge&logoColor=white&logo=rust)][Thesis] 
