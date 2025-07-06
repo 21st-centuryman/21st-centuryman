@@ -27,7 +27,7 @@
 </div>
 
 ## ⇁  Welcome
-If you want to follow me, I hope you enjoy this journey.
+I hope you enjoy this journey as much as I am.
 
 ## ⇁  Current status
 - 🔭 I want to accelerate technological development.
