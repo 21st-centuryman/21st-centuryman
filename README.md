@@ -35,7 +35,7 @@ If you want to follow me, I hope you enjoy this journey.
 - 🌱 I’m currently working on three projects.
   - Micrograd-rs: Expanding the research laid out in my thesis. Optimizing for stack allocation with Macros and Const generics.
   - Proofs: Learning Agda for mathematical proofs, with the goal to eventually merge this with Micrograd to prove properties about ML.
-  - RISCY Cores: a collection of cores I have developed in SystemVerilog. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions.
+  - RISCY Cores: a collection of cores I have developed in SystemVerilog. The goal is to eventually build a 64 bit pipeline RISC-V CPU with all extensions and have a complete SystemVerilog to tape-out pipeline using OpenLane.
 - 💤 I’m currently procrastinating on these projects.
     - Livermore: An AI to process and analyze data from Yahoo finance API. I have some bug fixes to do.
     - Advent of Code: I have set a goal to code in SystemVerilog, pytorch/tinygrad, haskell, python or rust.
